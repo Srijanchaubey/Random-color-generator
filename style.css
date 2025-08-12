@@ -1,0 +1,17 @@
+.container {
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.col-box {
+  height: 150px;
+  width: 500px;
+  border: 1px solid black;
+  margin-top: 20px;
+}
